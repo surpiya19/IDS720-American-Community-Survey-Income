@@ -1,4 +1,4 @@
-# IDS720-Labor-Market-Returns-to-Education
+# ACS Demographics and Income Data Analysis
 
 # Estimating Labor Market Returns to Education
 
